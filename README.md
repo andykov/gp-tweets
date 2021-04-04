@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Ссылка на [Техническое задание](task-description.txt).
+
+### Пример макета:
+[![](task-mockup.png)](task-mockup.png)
